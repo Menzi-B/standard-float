@@ -1,0 +1,26 @@
+{
+  "name": "standard-float",
+  "version": "1.0.0",
+  "description": "Ensure input passed is of type float rounded to two decimal places",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Menzi-B/standard-float.git"
+  },
+  "keywords": [
+    "Input",
+    "Validation",
+    "Float",
+    "Finanace",
+    "Rounding"
+  ],
+  "author": "Menzi Bomba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Menzi-B/standard-float/issues"
+  },
+  "homepage": "https://github.com/Menzi-B/standard-float#readme"
+}
